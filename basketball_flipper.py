@@ -37,6 +37,9 @@ def lose():
         global running
         running = False
 
+def restart():
+    pass
+
 
 def score_update():
     global score
